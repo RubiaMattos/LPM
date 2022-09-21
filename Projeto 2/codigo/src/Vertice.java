@@ -54,26 +54,25 @@ public class Vertice {
      */
     public Aresta existeAresta(int destino){
         return this.arestas.find(destino);
-
     }
     
     /**
      * Retorna o grau do vértice
      * @return Grau (inteiro não negativo)
      */
-    public int grau(){
+    public int grau() {
         return this.arestas.size();
-    }
-
-    public void visitar(){
-        this.visitado = true;
     }
     
     public void limparVisita(){
         this.visitado = false;
     }
     
-    public boolean visitado(){
+    public boolean visitado() {
         return this.visitado;
+    }
+    
+    public void visitar() {
+        this.visitado = true;
     }
 }
