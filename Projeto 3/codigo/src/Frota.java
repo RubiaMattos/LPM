@@ -1,3 +1,5 @@
+import Veiculo.Veiculo;
+
 public class Frota {
 
     Veiculo veiculo;
