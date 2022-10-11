@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8cb3097c-8711-45cd-80c2-3fdc1698b50c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Projeto 2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projeto 2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projeto 2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projeto 2/codigo/src/ABB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projeto 2/codigo/src/ABB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projeto 2/codigo/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projeto 2/codigo/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projeto 2/codigo/src/Aresta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projeto 2/codigo/src/Aresta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projeto 2/codigo/src/Grafo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projeto 2/codigo/src/Grafo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projeto 2/codigo/src/GrafoMutavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projeto 2/codigo/src/GrafoMutavel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projeto 2/codigo/src/GrafoPonderado.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projeto 2/codigo/src/GrafoPonderado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projeto 2/codigo/src/GrafosCompleto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projeto 2/codigo/src/GrafosCompleto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projeto 2/codigo/src/Vertice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projeto 2/codigo/src/Vertice.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FPXCCWsldXqP3kKrylyiMGzdHa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showModules" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cb3097c-8711-45cd-80c2-3fdc1698b50c" name="Changes" comment="" />
+      <created>1664394569409</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664394569409</updated>
+    </task>
+    <servers />
+  </component>
+</project>

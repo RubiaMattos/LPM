@@ -14,6 +14,7 @@ public abstract class GrafoMutavel extends Grafo {
         return super.addVertice(id);
     }
 
+    @Override
     public void carregar(String nomeArquivo) {
     }
 
@@ -22,9 +23,16 @@ public abstract class GrafoMutavel extends Grafo {
     }
 
     public boolean delVertice(int idVertice) {
-        return false;
+        Vertice v = this.existeVertice(idVertice);
+        if(v!=null){
+            this.vertices.remove(idVertice);
+            return true;
+        } else{
+            return false;
+        }
     }
     
+    @Override
     public void salvar(String nomeArquivo) {
     }
 }

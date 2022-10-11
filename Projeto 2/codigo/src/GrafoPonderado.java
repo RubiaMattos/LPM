@@ -1,5 +1,7 @@
 public class GrafoPonderado extends GrafoMutavel {
 
+    Aresta arestas;
+
     public GrafoPonderado(String nome) {
         super(nome);
     }
@@ -10,7 +12,7 @@ public class GrafoPonderado extends GrafoMutavel {
     }
 
     public boolean addAresta(int origem, int destino, int peso) {
-        return this.arestas.add(destino, new Aresta(0, destino));
+        return arestas.add(destino, new Aresta(0, destino));
     }
 
     public void carregar(String nomeArquivo) {
